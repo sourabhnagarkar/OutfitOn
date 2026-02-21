@@ -1,0 +1,5 @@
+[2025-06-16 16:10:28] Prepare failed: Table 'ocrs.clothes' doesn't exist
+[2025-06-16 16:13:42] Prepare failed: Unknown column 'user_id' in 'field list'
+[2025-06-16 16:14:22] Prepare failed: Unknown column 'user_id' in 'field list'
+[2025-06-17 09:34:19] Insert failed: Column 'user_id' cannot be null
+[2025-06-17 09:38:51] Insert failed: Column 'user_id' cannot be null
